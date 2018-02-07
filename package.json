@@ -1,0 +1,27 @@
+{
+  "name": "latlng-to-json",
+  "version": "0.0.0",
+  "description": "A tool to format list of coords to json.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedced19/latlng-to-json.git"
+  },
+  "keywords": [
+    "lat",
+    "lng",
+    "coords",
+    "raw",
+    "text",
+    "latitude",
+    "longitude",
+    "coordinates",
+    "json"
+  ],
+  "author": "Cédric JUNG <cedced19@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cedced19/latlng-to-json/issues"
+  },
+  "homepage": "https://github.com/cedced19/latlng-to-json#readme"
+}
